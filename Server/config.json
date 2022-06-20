@@ -1,0 +1,8 @@
+{
+    "Server_socket": {
+
+
+        "Send_port": "5055",
+        "recive_port": "5056",
+    },
+}

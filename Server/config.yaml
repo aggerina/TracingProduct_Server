@@ -1,0 +1,7 @@
+- DATA_Setting:
+    DATABASE_SERVER: photon
+    HOST_SERVER: 192.168.1.91
+    PASSWORD_SERVER: P@ssw0rd
+    USER_SERVER: BPMS
+    recive_port: '5051'
+    send_port: '5051'

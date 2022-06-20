@@ -1,0 +1,22 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+
+<head>
+        <title>RaDbin</title>
+  {% include 'SharedTemplate/HeadersRefrenses.html' %}
+</head>
+
+<body id="page-top">
+
+       <div id="wrapper">
+    {% include 'SharedTemplate/NavBar.html' %}
+               {% block Contents %}
+
+  {% endblock %}
+       </div>
+
+    {% include 'SharedTemplate/BottonRefrenses.html' %}
+</body>
+
+</html>
